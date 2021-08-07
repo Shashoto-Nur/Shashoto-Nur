@@ -21,11 +21,12 @@ I am a fullstack web developer from Bangladesh
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)
 <br> <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashoto-Nur&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashoto-Nur&hide=jupyter%20notebook,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 ## Github Stats
 
-[![Shashoto's github stats](https://github-readme-stats.vercel.app/api?username=Shashoto-Nur)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Shashoto's github stats](https://github-readme-stats.vercel.app/api?username=Shashoto-Nur&count_private=true&show_icons=true&theme=radical)
+](https://github.com/anuraghazra/github-readme-stats) <br>
 
 <!--
 **Shashoto-Nur/Shashoto-Nur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
