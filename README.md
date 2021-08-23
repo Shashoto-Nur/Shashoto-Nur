@@ -21,7 +21,7 @@ I am a fullstack web developer from Bangladesh
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)
 <br> <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashoto-Nur&hide=jupyter%20notebook,html,css&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashoto-Nur&hide=jupyter%20notebook&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 ## Github Stats
 
