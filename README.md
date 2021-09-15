@@ -4,7 +4,6 @@ I am a fullstack web developer from Bangladesh
 - 🌱 Constantly learning and trying to understand the underlying architecture of the technologies I use
 - 👯 I’m looking to collaborate on Qiskit (an open source SDK for working with OpenQASM)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: The first time I read about programming I knew instantly that is something I can never do (and the article was on Python 😜)
 <br>
 
 ## Connect with me
