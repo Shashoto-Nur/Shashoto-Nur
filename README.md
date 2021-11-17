@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a self-taught fullstack web developer specializing
+I am a self-taught fullstack web developer specializing in MERN stack
 - 🔭 Fairly experienced in working on fullstack projects using React, Express, Graphql and MongoDB
 - 🌱 Constantly learning and trying to understand the underlying architecture of the technologies I use
 - 👯 I’m looking to collaborate on open source technologies
