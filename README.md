@@ -1,8 +1,8 @@
 ### Hi there 👋
-I am a fullstack web developer from Bangladesh
-- 🔭 Working on multiple fullstack projects using React, Express, Graphql and MongoDB
+I am a self-taught fullstack web developer specializing
+- 🔭 Fairly experienced in working on fullstack projects using React, Express, Graphql and MongoDB
 - 🌱 Constantly learning and trying to understand the underlying architecture of the technologies I use
-- 👯 I’m looking to collaborate on Qiskit (an open source SDK for working with OpenQASM)
+- 👯 I’m looking to collaborate on open source technologies
 - 😄 Pronouns: he/him
 <br>
 
