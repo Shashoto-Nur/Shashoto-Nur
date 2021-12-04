@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am a self-taught fullstack web developer specializing in MERN stack
-- 🔭 Fairly experienced in working on fullstack projects using React, Express, Graphql and MongoDB
+- 🔭 With experience in working on fullstack projects using React, Express, Graphql and MongoDB
 - 🌱 Constantly learning and trying to understand the underlying architecture of the technologies I use
 - 👯 I’m looking to collaborate on open source technologies
 - 😄 Pronouns: he/him
@@ -19,6 +19,7 @@ I am a self-taught fullstack web developer specializing in MERN stack
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)
+[![Go Badge](https://img.shields.io/badge/-Go-569df5?style=for-the-badge&labelColor=black&logo=go&logoColor=569df5)(#)
 <br> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashoto-Nur&hide=jupyter%20notebook&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
 
