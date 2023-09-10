@@ -1,9 +1,14 @@
-### Hi there 👋
-I am a self-taught fullstack web developer specializing in MERN stack
-- 🔭 With experience in working on fullstack projects using React, Express, Graphql and MongoDB
-- 🌱 Constantly learning and trying to understand the underlying architecture of the technologies I use
-- 👯 I’m looking to collaborate on open source technologies
-- 😄 Pronouns: he/him
+### Hi there, I'm Shashoto 👋
+
+I'm a passionate programmer who loves to use code to solve daily problems and build cool stuff
+
+### 💼 Skills
+
+- Python, JavaScript
+- React, Node.js, Express, Django
+- SQL, MongoDB
+- Git, GitHub Actions
+
 <br>
 
 ## Connect with me
@@ -22,6 +27,14 @@ I am a self-taught fullstack web developer specializing in MERN stack
 [![Go Badge](https://img.shields.io/badge/-Go-569df5?style=for-the-badge&labelColor=black&logo=go&logoColor=569df5)](#)
 <br> <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shashoto-Nur&hide=jupyter%20notebook&theme=radical)](https://github.com/anuraghazra/github-readme-stats) <br>
+
+### 🚀 Featured Projects
+
+- [Convo](https://github.com/shashoto-nur/django-convo): Chat app capable of speech recognition and synthesis.
+- [Cipher]((https://github.com/shashoto-nur/cipher): React progressive web app written in typescript to encrypt files in the browser.
+- [IQC 2021](https://github.com/shashoto-nur/iqc-2021): Problems and solutions of IBM Quantum Challenge 2021.
+- [Dynamic Writer]([https://github.com/your-username/project-repo](https://github.com/shashoto-nur/dynamicwriter)): A program to log statements to the nodejs terminal with typewriter effect.
+- [Fictional Character](https://github.com/shashoto-nur/fictional-character): Single page website written in vanilla javascript and uses the winbox library.
 
 ## Github Stats
 
