@@ -33,7 +33,7 @@ I'm a passionate programmer who loves to use code to solve daily problems and bu
 - [Convo](https://github.com/shashoto-nur/django-convo): Chat app capable of speech recognition and synthesis.
 - [Cipher](https://github.com/shashoto-nur/cipher): React progressive web app written in typescript to encrypt files in the browser.
 - [IQC 2021](https://github.com/shashoto-nur/iqc-2021): Problems and solutions of IBM Quantum Challenge 2021.
-- [Dynamic Writer]([https://github.com/your-username/project-repo](https://github.com/shashoto-nur/dynamicwriter)): A program to log statements to the nodejs terminal with typewriter effect.
+- [Dynamic Writer](https://github.com/shashoto-nur/dynamicwriter)): A program to log statements to the nodejs terminal with typewriter effect.
 - [Fictional Character](https://github.com/shashoto-nur/fictional-character): Single page website written in vanilla javascript and uses the winbox library.
 
 ## Github Stats
