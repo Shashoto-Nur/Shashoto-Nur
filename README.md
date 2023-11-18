@@ -35,8 +35,3 @@ I'm a passionate programmer who loves to use code to solve daily problems and bu
 - [IQC 2021](https://github.com/shashoto-nur/iqc-2021): Problems and solutions of IBM Quantum Challenge 2021.
 - [Dynamic Writer](https://github.com/shashoto-nur/dynamicwriter): A program to log statements to the nodejs terminal with typewriter effect.
 - [Fictional Character](https://github.com/shashoto-nur/fictional-character): Single page website written in vanilla javascript and uses the winbox library.
-
-## Github Stats
-
-[![Shashoto's github stats](https://github-readme-stats.vercel.app/api?username=Shashoto-Nur&count_private=true&show_icons=true&theme=radical)
-](https://github.com/anuraghazra/github-readme-stats) <br>
