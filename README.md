@@ -14,6 +14,7 @@ I'm a passionate programmer who loves to use code to solve daily problems and bu
 ## Connect with me
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/14865099/nurul-aziz-shashoto)
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/na.shashoto/)
+[<img align="left" alt="reddit" src="https://img.shields.io/badge/reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge" />](https://www.reddit.com/user/s1nur/)
 <br>
 <br>
 ## Expertise
