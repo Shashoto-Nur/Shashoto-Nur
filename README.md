@@ -34,12 +34,13 @@ I am a passionate developer driven by a profound enthusiasm for leveraging codin
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)&nbsp;&nbsp;
 [![MongoDB Badge](https://img.shields.io/badge/-MongoDB-3C873A?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=3C873A)](#)&nbsp;&nbsp;
 [![MySQL Badge](https://img.shields.io/badge/-MySQL-00758f?style=for-the-badge&labelColor=black&logo=mysql&logoColor=00758f)](#)
+<!--- [![Rust Badge](https://img.shields.io/badge/-Rust-F74C00?style=for-the-badge&labelColor=black&logo=rust&logoColor=F74C00)](#)&nbsp;&nbsp; --->
 
 ---
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashotoNur&hide=jupyter%20notebook&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shashotoNur&hide=jupyter%20notebook,html&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -50,6 +51,6 @@ I am a passionate developer driven by a profound enthusiasm for leveraging codin
 - [IQC 2021](https://github.com/shashoto-nur/iqc-2021): Problems and solutions of IBM Quantum Challenge 2021.
 - [Dynamic Writer](https://github.com/shashoto-nur/dynamicwriter): A program to log statements to the nodejs terminal with typewriter effect.
 - [Music Playlist Downloader](https://github.com/shashoto-nur/playlist-music-downloader): App to compile music from YouTube playlists with preserved cover art.
-- [Fictional Character](https://github.com/shashoto-nur/fictional-character): Single page website written in vanilla javascript and uses the winbox library.
+- [mdWrite](https://github.com/shashotonur/mdwrite): A web-based markdown editor.
 
 ---
